@@ -1,8 +1,8 @@
 # Trie Map
 
-An compressed HAMT implementation, as devised by Steindorfer & Vinju.
-Their own (far more complete) implementation is [available here]
-as a library named Capsule (along with links to related papers).
+An compressed HAMT (CHAMP) implementation, as devised by Steindorfer & Vinju.
+Their own (far more complete) implementation is [available here] as a library
+named Capsule (along with links to related papers).
 
 I implemented this to learn about the inner workings of the data structure. As such it may
 be valuable for learning, but do not use for serious work (have a look at Capsule instead).
