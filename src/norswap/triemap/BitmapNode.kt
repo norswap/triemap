@@ -90,8 +90,8 @@ class BitmapNode<K: Any, V: Any> (nodeMap: Int, entryMap: Int, items: Array<Any>
 
             if (k == k1)
             {
-                change.replaced(v1)
-                return updateValue(bit, v1)
+                change.replaced(v)
+                return updateValue(bit, v)
             }
             else
             {
